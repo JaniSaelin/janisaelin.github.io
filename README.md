@@ -53,14 +53,21 @@ c = a + b
 print(c)
 
 for i in range (c):
-  print(i)
-
+  if (i % 2 == 0):
+    print(i)
+  elif(i % 5 == 0):
+    print(i * 5)
+    
 ```
 
 You can [embed a text with links](https://github.com/) by wrapping brackets around the text and providing hte URL in parentheses immediately after the closed text. 
 
 Finally, you can include images in your website.
 ![GitHub logo](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)
+To do this, type ```![text](url)```.
+
+For more GitHub Markdown tricks, click [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet).
+
 
 ### Jekyll Themes
 
