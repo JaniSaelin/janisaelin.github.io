@@ -66,7 +66,7 @@ Finally, you can include images in your website.
 ![GitHub logo](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)
 To do this, type ```![text](url)```.
 
-For more GitHub Markdown tricks, click [here](janisaelin.github.io/tipsandtricks.html).
+For more GitHub Markdown tricks, click [here](janisaelin.github.io/tipsandtricks.md).
 
 
 ### Jekyll Themes
