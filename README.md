@@ -46,11 +46,23 @@ So let's play around with manipulating other parts of the text. If you want to *
 
 For _italicized text_ you can encompass your desired text with single underscores on both ends. 
 
-Lastly there's `code text` which you encompass with that apostrophe-looking symbol thing under the tilda (~) button next to your "1" key.
+And then, there's `code text` which you encompass with that apostrophe-looking symbol thing under the tilda (~) button next to your "1" key. (EDIT: I found out that they're called "back-ticks"). These back-ticks can also perform syntax highlighting. For example, if you're writing Python code:
+
+```python
+a = 45
+b = 29
+c = a + b
+print(c)
+
+for i in range (c):
+  print(i)
+
+```
 
 You can [embed a text with links](https://github.com/) by wrapping brackets around the text and providing hte URL in parentheses immediately after the closed text. 
 
 Finally, you can include images in your website.
+![GitHub logo](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)
 
 ### Jekyll Themes
 
